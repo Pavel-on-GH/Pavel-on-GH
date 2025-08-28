@@ -1,7 +1,8 @@
 
 <h3>Привет&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" style="vertical-align: middle;"/></h3>
 
-Я Павел, Frontend-разработчик. Специализируюсь на создании современных веб-интерфейсов с использованием React, Redux и TypeScript. 
+Я Павел, Frontend-разработчик.  
+Специализируюсь на создании современных веб-интерфейсов с использованием React, Redux и TypeScript.  
 Сейчас в поиске команды, где смогу развиваться и приносить пользу.
 
 ---
